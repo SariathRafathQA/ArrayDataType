@@ -1,6 +1,6 @@
-package com.company;
+package FirstPratice;
 
-public class elseIf {
+public class ElseIfDataType {
     public static void main(String[] args){
         int user = 21;
         if (user <= 18) {
