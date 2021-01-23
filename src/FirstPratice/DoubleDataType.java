@@ -1,6 +1,6 @@
-package com.company;
+package FirstPratice;
 
-public class DoubleDataTpe {
+public class DoubleDataType {
     public static void main(String[] args){
         double mynum = 6.2756;
         double mynum1 = 2.345;
